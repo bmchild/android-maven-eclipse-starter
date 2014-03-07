@@ -16,3 +16,6 @@ This project should be able to act as a springboard for your android projects th
 * [A Setup Guide](http://www.karlmonaghan.com/2013/03/28/eclipse-adt-maven-m2e-android-connector-setup/)
 * [The Android Maven Plugin](https://code.google.com/p/maven-android-plugin/wiki/GettingStarted)
 
+```sh
+$ mvn clean package android:deploy android:run
+```
